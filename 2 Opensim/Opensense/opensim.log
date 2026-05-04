@@ -1,0 +1,817 @@
+[2026-04-06 17:58:21.664] [info] Updating Model file from 30000 to latest format...
+[2026-04-06 17:58:21.670] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 17:58:21.670] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 17:58:21.670] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 17:58:21.670] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 17:58:21.671] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 17:58:21.671] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 17:58:21.671] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 17:58:21.671] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 17:58:21.674] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 17:58:21.674] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 17:58:21.674] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 17:58:21.674] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 17:58:21.675] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 17:58:21.675] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 17:58:21.675] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 17:58:21.675] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 17:58:21.675] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 17:58:21.675] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 17:58:21.675] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 17:58:21.675] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 17:58:21.675] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 17:58:21.675] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 17:58:21.675] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 17:58:21.675] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 17:58:21.675] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 17:58:21.675] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 17:58:21.675] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 17:58:21.675] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 17:58:21.676] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 17:58:21.676] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 17:58:21.676] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 17:58:21.676] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 17:58:21.676] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 17:58:21.677] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 17:58:21.677] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 17:58:21.677] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 17:58:21.677] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 17:58:21.677] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 17:58:21.677] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 17:58:21.677] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 17:58:21.677] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 17:58:21.677] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 17:58:21.677] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 17:58:21.677] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 17:58:21.677] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 17:58:21.677] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 17:58:21.677] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 17:58:21.677] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 17:58:21.678] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 17:58:21.678] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 17:58:21.678] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 17:58:21.678] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 17:58:21.678] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 17:58:21.678] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 17:58:21.678] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 17:58:21.678] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 17:58:21.691] [info] Loaded model HYOID_Scaled from file C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\HYOID_1.2_ScaledStrenght_UpdatedInertia.osim
+[2026-04-06 17:58:21.694] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+[2026-04-06 18:08:16.263] [info] No external loads will be applied (external loads file not specified).
+[2026-04-06 18:08:16.263] [info] Executing the analyses from 0.0 to 99.0...
+[2026-04-06 18:12:35.551] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\sto files\so_sviadaksha.mot (nr=5271 nc=205)
+[2026-04-06 18:12:35.942] [warning] Coordinate.setValue:  coordinate gndpitch is locked. Unable to change its value.
+[2026-04-06 18:12:35.943] [warning] Coordinate.setValue:  coordinate gndroll is locked. Unable to change its value.
+[2026-04-06 18:12:35.943] [warning] Coordinate.setValue:  coordinate gndyaw is locked. Unable to change its value.
+[2026-04-06 18:12:35.943] [warning] Coordinate.setValue:  coordinate spine_tx is locked. Unable to change its value.
+[2026-04-06 18:12:35.943] [warning] Coordinate.setValue:  coordinate spine_ty is locked. Unable to change its value.
+[2026-04-06 18:12:35.943] [warning] Coordinate.setValue:  coordinate spine_tz is locked. Unable to change its value.
+[2026-04-06 18:13:22.567] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\sto files\HYOID_Scaled_calibrated_StaticOptimization_activation.sto (nr=5272 nc=73)
+[2026-04-06 18:18:54.259] [warning] Coordinate.setValue:  coordinate gndpitch is locked. Unable to change its value.
+[2026-04-06 18:18:54.259] [warning] Coordinate.setValue:  coordinate gndroll is locked. Unable to change its value.
+[2026-04-06 18:18:54.259] [warning] Coordinate.setValue:  coordinate gndyaw is locked. Unable to change its value.
+[2026-04-06 18:18:54.259] [warning] Coordinate.setValue:  coordinate spine_tx is locked. Unable to change its value.
+[2026-04-06 18:18:54.259] [warning] Coordinate.setValue:  coordinate spine_ty is locked. Unable to change its value.
+[2026-04-06 18:18:54.259] [warning] Coordinate.setValue:  coordinate spine_tz is locked. Unable to change its value.
+[2026-04-06 18:19:05.433] [warning] Coordinate.setValue:  coordinate gndpitch is locked. Unable to change its value.
+[2026-04-06 18:19:05.433] [warning] Coordinate.setValue:  coordinate gndroll is locked. Unable to change its value.
+[2026-04-06 18:19:05.433] [warning] Coordinate.setValue:  coordinate gndyaw is locked. Unable to change its value.
+[2026-04-06 18:19:05.433] [warning] Coordinate.setValue:  coordinate spine_tx is locked. Unable to change its value.
+[2026-04-06 18:19:05.433] [warning] Coordinate.setValue:  coordinate spine_ty is locked. Unable to change its value.
+[2026-04-06 18:19:05.433] [warning] Coordinate.setValue:  coordinate spine_tz is locked. Unable to change its value.
+[2026-04-06 18:20:56.418] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_force.sto (nr=5272 nc=169)
+[2026-04-06 18:21:54.018] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_activation.sto (nr=5272 nc=73)
+[2026-04-06 18:24:09.364] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_activation.sto (nr=5272 nc=73)
+[2026-04-06 18:25:49.264] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_activation.sto (nr=5272 nc=73)
+[2026-04-06 18:26:06.510] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_force.sto (nr=5272 nc=169)
+[2026-04-06 18:26:45.961] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_force.sto (nr=5272 nc=169)
+[2026-04-06 18:50:58.370] [info] Updating Model file from 30000 to latest format...
+[2026-04-06 18:50:58.380] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:50:58.380] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:50:58.381] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:50:58.381] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:50:58.381] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:50:58.381] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:50:58.381] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:50:58.381] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:50:58.381] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:50:58.381] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:50:58.381] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:50:58.381] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:50:58.381] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:50:58.381] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:50:58.381] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:50:58.381] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:50:58.382] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:50:58.382] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:50:58.382] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:50:58.382] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:50:58.382] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:50:58.382] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:50:58.382] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:50:58.382] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:50:58.382] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:50:58.382] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:50:58.382] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:50:58.382] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:50:58.383] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:50:58.383] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:50:58.383] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:50:58.383] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:50:58.383] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:50:58.383] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:50:58.383] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:50:58.383] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:50:58.384] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:50:58.384] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:50:58.384] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:50:58.384] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:50:58.384] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:50:58.384] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:50:58.384] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:50:58.384] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:50:58.384] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:50:58.384] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:50:58.384] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:50:58.384] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:50:58.384] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:50:58.384] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:50:58.384] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:50:58.384] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:50:58.385] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:50:58.385] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:50:58.385] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:50:58.385] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:50:58.397] [info] Loaded model HYOID_Scaled from file C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\HYOID_1.2_ScaledStrenght_UpdatedInertia.osim
+[2026-04-06 18:50:58.476] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+[2026-04-06 18:51:36.642] [info] Updating Model file from 30000 to latest format...
+[2026-04-06 18:51:36.648] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:51:36.648] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:51:36.648] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:51:36.648] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:51:36.649] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:51:36.649] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:51:36.649] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:51:36.649] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:51:36.649] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:51:36.649] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:51:36.649] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:51:36.649] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:51:36.650] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:51:36.650] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:51:36.650] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:51:36.650] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:51:36.650] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:51:36.650] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:51:36.650] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:51:36.650] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:51:36.651] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:51:36.651] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:51:36.651] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:51:36.651] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:51:36.651] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:51:36.651] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:51:36.652] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:51:36.652] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:51:36.654] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:51:36.654] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:51:36.654] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:51:36.654] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:51:36.654] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:51:36.654] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:51:36.654] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:51:36.654] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:51:36.655] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:51:36.655] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:51:36.655] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:51:36.655] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:51:36.655] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:51:36.655] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:51:36.655] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:51:36.655] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:51:36.655] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:51:36.655] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:51:36.655] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:51:36.655] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:51:36.656] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:51:36.656] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:51:36.656] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:51:36.656] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:51:36.656] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-06 18:51:36.656] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-06 18:51:36.656] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-06 18:51:36.656] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-06 18:51:36.674] [info] Loaded model HYOID_Scaled from file C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\HYOID_1.2_ScaledStrenght_UpdatedInertia.osim
+[2026-04-06 18:51:36.677] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+[2026-04-06 18:52:02.440] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_activation.sto (nr=5272 nc=73)
+[2026-04-06 18:52:58.827] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\so_sviadaksha.mot (nr=5271 nc=205)
+[2026-04-06 18:52:59.235] [warning] Coordinate.setValue:  coordinate gndpitch is locked. Unable to change its value.
+[2026-04-06 18:52:59.235] [warning] Coordinate.setValue:  coordinate gndroll is locked. Unable to change its value.
+[2026-04-06 18:52:59.235] [warning] Coordinate.setValue:  coordinate gndyaw is locked. Unable to change its value.
+[2026-04-06 18:52:59.235] [warning] Coordinate.setValue:  coordinate spine_tx is locked. Unable to change its value.
+[2026-04-06 18:52:59.236] [warning] Coordinate.setValue:  coordinate spine_ty is locked. Unable to change its value.
+[2026-04-06 18:52:59.236] [warning] Coordinate.setValue:  coordinate spine_tz is locked. Unable to change its value.
+[2026-04-06 18:53:03.319] [warning] Coordinate.setValue:  coordinate gndpitch is locked. Unable to change its value.
+[2026-04-06 18:53:03.320] [warning] Coordinate.setValue:  coordinate gndroll is locked. Unable to change its value.
+[2026-04-06 18:53:03.320] [warning] Coordinate.setValue:  coordinate gndyaw is locked. Unable to change its value.
+[2026-04-06 18:53:03.320] [warning] Coordinate.setValue:  coordinate spine_tx is locked. Unable to change its value.
+[2026-04-06 18:53:03.320] [warning] Coordinate.setValue:  coordinate spine_ty is locked. Unable to change its value.
+[2026-04-06 18:53:03.320] [warning] Coordinate.setValue:  coordinate spine_tz is locked. Unable to change its value.
+[2026-04-06 18:53:11.700] [warning] Coordinate.setValue:  coordinate gndpitch is locked. Unable to change its value.
+[2026-04-06 18:53:11.700] [warning] Coordinate.setValue:  coordinate gndroll is locked. Unable to change its value.
+[2026-04-06 18:53:11.700] [warning] Coordinate.setValue:  coordinate gndyaw is locked. Unable to change its value.
+[2026-04-06 18:53:11.700] [warning] Coordinate.setValue:  coordinate spine_tx is locked. Unable to change its value.
+[2026-04-06 18:53:11.700] [warning] Coordinate.setValue:  coordinate spine_ty is locked. Unable to change its value.
+[2026-04-06 18:53:11.700] [warning] Coordinate.setValue:  coordinate spine_tz is locked. Unable to change its value.
+[2026-04-06 18:53:16.374] [warning] Coordinate.setValue:  coordinate gndpitch is locked. Unable to change its value.
+[2026-04-06 18:53:16.374] [warning] Coordinate.setValue:  coordinate gndroll is locked. Unable to change its value.
+[2026-04-06 18:53:16.374] [warning] Coordinate.setValue:  coordinate gndyaw is locked. Unable to change its value.
+[2026-04-06 18:53:16.374] [warning] Coordinate.setValue:  coordinate spine_tx is locked. Unable to change its value.
+[2026-04-06 18:53:16.374] [warning] Coordinate.setValue:  coordinate spine_ty is locked. Unable to change its value.
+[2026-04-06 18:53:16.374] [warning] Coordinate.setValue:  coordinate spine_tz is locked. Unable to change its value.
+[2026-04-06 18:53:20.757] [warning] Coordinate.setValue:  coordinate gndpitch is locked. Unable to change its value.
+[2026-04-06 18:53:20.757] [warning] Coordinate.setValue:  coordinate gndroll is locked. Unable to change its value.
+[2026-04-06 18:53:20.757] [warning] Coordinate.setValue:  coordinate gndyaw is locked. Unable to change its value.
+[2026-04-06 18:53:20.757] [warning] Coordinate.setValue:  coordinate spine_tx is locked. Unable to change its value.
+[2026-04-06 18:53:20.757] [warning] Coordinate.setValue:  coordinate spine_ty is locked. Unable to change its value.
+[2026-04-06 18:53:20.757] [warning] Coordinate.setValue:  coordinate spine_tz is locked. Unable to change its value.
+[2026-04-06 18:54:32.803] [warning] Coordinate.setValue:  coordinate gndpitch is locked. Unable to change its value.
+[2026-04-06 18:54:32.803] [warning] Coordinate.setValue:  coordinate gndroll is locked. Unable to change its value.
+[2026-04-06 18:54:32.803] [warning] Coordinate.setValue:  coordinate gndyaw is locked. Unable to change its value.
+[2026-04-06 18:54:32.803] [warning] Coordinate.setValue:  coordinate spine_tx is locked. Unable to change its value.
+[2026-04-06 18:54:32.803] [warning] Coordinate.setValue:  coordinate spine_ty is locked. Unable to change its value.
+[2026-04-06 18:54:32.803] [warning] Coordinate.setValue:  coordinate spine_tz is locked. Unable to change its value.
+[2026-04-06 18:55:31.147] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\so_sviadaksha.mot (nr=5271 nc=205)
+[2026-04-06 18:56:23.991] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_activation.sto (nr=5272 nc=73)
+[2026-04-06 18:56:32.597] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_force.sto (nr=5272 nc=169)
+[2026-04-06 18:59:48.053] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_force.sto (nr=5272 nc=169)
+[2026-04-06 19:00:14.613] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_activation.sto (nr=5272 nc=73)
+[2026-04-08 05:00:06.238] [info] Updating Model file from 30000 to latest format...
+[2026-04-08 05:00:06.250] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:00:06.250] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:00:06.250] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:00:06.250] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:00:06.250] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:00:06.250] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:00:06.250] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:00:06.250] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:00:06.250] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:00:06.250] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:00:06.251] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:00:06.251] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:00:06.251] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:00:06.251] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:00:06.251] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:00:06.251] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:00:06.251] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:00:06.251] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:00:06.251] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:00:06.251] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:00:06.252] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:00:06.252] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:00:06.252] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:00:06.252] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:00:06.252] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:00:06.252] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:00:06.252] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:00:06.252] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:00:06.253] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:00:06.253] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:00:06.253] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:00:06.253] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:00:06.253] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:00:06.253] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:00:06.253] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:00:06.253] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:00:06.254] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:00:06.254] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:00:06.254] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:00:06.254] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:00:06.254] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:00:06.254] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:00:06.254] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:00:06.254] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:00:06.254] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:00:06.254] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:00:06.254] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:00:06.254] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:00:06.255] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:00:06.255] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:00:06.255] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:00:06.255] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:00:06.255] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:00:06.255] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:00:06.255] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:00:06.255] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:00:06.267] [info] Loaded model HYOID_Scaled from file C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\HYOID_1.2_ScaledStrenght_UpdatedInertia.osim
+[2026-04-08 05:00:06.376] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+[2026-04-08 05:00:23.077] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_activation.sto (nr=5272 nc=73)
+[2026-04-08 05:15:34.193] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_activation.sto (nr=5272 nc=73)
+[2026-04-08 05:26:55.390] [info] Updating Model file from 30000 to latest format...
+[2026-04-08 05:26:55.396] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:26:55.396] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:26:55.396] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:26:55.396] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:26:55.396] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:26:55.396] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:26:55.397] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:26:55.397] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:26:55.397] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:26:55.397] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:26:55.397] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:26:55.397] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:26:55.397] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:26:55.397] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:26:55.397] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:26:55.397] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:26:55.397] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:26:55.397] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:26:55.397] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:26:55.397] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:26:55.398] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:26:55.398] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:26:55.398] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:26:55.398] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:26:55.398] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:26:55.398] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:26:55.398] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:26:55.398] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:26:55.399] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:26:55.399] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:26:55.399] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:26:55.399] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:26:55.399] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:26:55.399] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:26:55.399] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:26:55.399] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:26:55.399] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:26:55.399] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:26:55.399] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:26:55.399] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:26:55.400] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:26:55.400] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:26:55.400] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:26:55.400] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:26:55.400] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:26:55.400] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:26:55.400] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:26:55.400] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:26:55.400] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:26:55.400] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:26:55.400] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:26:55.400] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:26:55.400] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-08 05:26:55.400] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-08 05:26:55.400] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-08 05:26:55.400] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-08 05:26:55.412] [info] Loaded model HYOID_Scaled from file C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\HYOID_1.2_ScaledStrenght_UpdatedInertia.osim
+[2026-04-08 05:26:55.416] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+[2026-04-08 05:27:49.975] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_activation.sto (nr=5272 nc=73)
+[2026-04-09 14:07:40.235] [info] Updating Model file from 30000 to latest format...
+[2026-04-09 14:07:40.251] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-09 14:07:40.251] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-09 14:07:40.252] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-09 14:07:40.252] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-09 14:07:40.252] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-09 14:07:40.252] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-09 14:07:40.252] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-09 14:07:40.252] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-09 14:07:40.254] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-09 14:07:40.254] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-09 14:07:40.254] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-09 14:07:40.254] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-09 14:07:40.254] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-09 14:07:40.254] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-09 14:07:40.254] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-09 14:07:40.254] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-09 14:07:40.255] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-09 14:07:40.255] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-09 14:07:40.255] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-09 14:07:40.255] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-09 14:07:40.255] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-09 14:07:40.255] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-09 14:07:40.255] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-09 14:07:40.255] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-09 14:07:40.255] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-09 14:07:40.255] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-09 14:07:40.255] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-09 14:07:40.255] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-09 14:07:40.256] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-09 14:07:40.256] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-09 14:07:40.256] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-09 14:07:40.256] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-09 14:07:40.256] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-09 14:07:40.256] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-09 14:07:40.256] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-09 14:07:40.257] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-09 14:07:40.257] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-09 14:07:40.257] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-09 14:07:40.257] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-09 14:07:40.257] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-09 14:07:40.257] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-09 14:07:40.257] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-09 14:07:40.257] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-09 14:07:40.257] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-09 14:07:40.257] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-09 14:07:40.257] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-09 14:07:40.257] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-09 14:07:40.257] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-09 14:07:40.257] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-09 14:07:40.257] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-09 14:07:40.258] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-09 14:07:40.258] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-09 14:07:40.258] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-09 14:07:40.258] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-09 14:07:40.258] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-09 14:07:40.258] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-09 14:07:40.271] [info] Loaded model HYOID_Scaled from file C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\HYOID_1.2_ScaledStrenght_UpdatedInertia.osim
+[2026-04-09 14:07:40.415] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+[2026-04-10 17:18:35.751] [info] Updating Model file from 30000 to latest format...
+[2026-04-10 17:18:35.769] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-10 17:18:35.769] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-10 17:18:35.769] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-10 17:18:35.769] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-10 17:18:35.770] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-10 17:18:35.770] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-10 17:18:35.770] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-10 17:18:35.770] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-10 17:18:35.770] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-10 17:18:35.770] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-10 17:18:35.770] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-10 17:18:35.770] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-10 17:18:35.771] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-10 17:18:35.771] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-10 17:18:35.771] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-10 17:18:35.771] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-10 17:18:35.771] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-10 17:18:35.771] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-10 17:18:35.771] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-10 17:18:35.771] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-10 17:18:35.771] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-10 17:18:35.771] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-10 17:18:35.771] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-10 17:18:35.771] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-10 17:18:35.771] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-10 17:18:35.772] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-10 17:18:35.772] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-10 17:18:35.772] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-10 17:18:35.773] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-10 17:18:35.773] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-10 17:18:35.773] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-10 17:18:35.773] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-10 17:18:35.774] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-10 17:18:35.774] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-10 17:18:35.774] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-10 17:18:35.774] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-10 17:18:35.774] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-10 17:18:35.775] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-10 17:18:35.775] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-10 17:18:35.775] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-10 17:18:35.775] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-10 17:18:35.775] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-10 17:18:35.775] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-10 17:18:35.775] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-10 17:18:35.776] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-10 17:18:35.776] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-10 17:18:35.776] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-10 17:18:35.776] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-10 17:18:35.777] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-10 17:18:35.777] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-10 17:18:35.777] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-10 17:18:35.777] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-10 17:18:35.777] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-10 17:18:35.777] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-10 17:18:35.777] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-10 17:18:35.777] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-10 17:18:35.796] [info] Loaded model HYOID_Scaled from file C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\HYOID_1.2_ScaledStrenght_UpdatedInertia.osim
+[2026-04-10 17:18:35.935] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+[2026-04-15 10:54:52.221] [info] Updating Model file from 30000 to latest format...
+[2026-04-15 10:54:52.309] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:54:52.309] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:54:52.309] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:54:52.309] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:54:52.310] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:54:52.310] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:54:52.310] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:54:52.310] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:54:52.311] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:54:52.311] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:54:52.311] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:54:52.311] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:54:52.311] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:54:52.311] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:54:52.311] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:54:52.311] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:54:52.311] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:54:52.311] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:54:52.312] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:54:52.312] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:54:52.312] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:54:52.312] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:54:52.312] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:54:52.312] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:54:52.313] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:54:52.313] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:54:52.313] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:54:52.313] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:54:52.314] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:54:52.314] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:54:52.314] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:54:52.314] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:54:52.314] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:54:52.314] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:54:52.314] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:54:52.314] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:54:52.315] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:54:52.315] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:54:52.315] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:54:52.315] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:54:52.315] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:54:52.315] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:54:52.315] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:54:52.315] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:54:52.316] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:54:52.316] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:54:52.316] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:54:52.316] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:54:52.316] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:54:52.316] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:54:52.316] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:54:52.316] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:54:52.316] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:54:52.316] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:54:52.316] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:54:52.316] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:54:52.335] [info] Loaded model HYOID_Scaled from file C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\HYOID_1.2_ScaledStrenght_UpdatedInertia.osim
+[2026-04-15 10:54:52.465] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+[2026-04-15 10:55:30.384] [info] Updating Model file from 30000 to latest format...
+[2026-04-15 10:55:30.397] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:55:30.398] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:55:30.398] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:55:30.398] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:55:30.398] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:55:30.398] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:55:30.398] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:55:30.398] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:55:30.399] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:55:30.399] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:55:30.399] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:55:30.399] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:55:30.399] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:55:30.399] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:55:30.399] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:55:30.399] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:55:30.400] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:55:30.400] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:55:30.400] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:55:30.400] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:55:30.400] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:55:30.400] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:55:30.400] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:55:30.400] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:55:30.401] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:55:30.401] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:55:30.401] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:55:30.401] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:55:30.403] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:55:30.403] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:55:30.403] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:55:30.403] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:55:30.403] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:55:30.403] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:55:30.404] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:55:30.404] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:55:30.404] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:55:30.404] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:55:30.404] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:55:30.404] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:55:30.404] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:55:30.404] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:55:30.404] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:55:30.404] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:55:30.405] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:55:30.405] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:55:30.405] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:55:30.405] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:55:30.405] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:55:30.405] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:55:30.405] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:55:30.405] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:55:30.405] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-15 10:55:30.405] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-15 10:55:30.405] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-15 10:55:30.405] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-15 10:55:30.423] [info] Loaded model HYOID_Scaled from file C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\HYOID_1.2_ScaledStrenght_UpdatedInertia.osim
+[2026-04-15 10:55:30.428] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+[2026-04-15 10:55:54.341] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_force.sto (nr=5272 nc=169)
+[2026-04-16 10:00:59.347] [info] Updating Model file from 30000 to latest format...
+[2026-04-16 10:00:59.448] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-16 10:00:59.448] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-16 10:00:59.448] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-16 10:00:59.448] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-16 10:00:59.448] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-16 10:00:59.448] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-16 10:00:59.448] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-16 10:00:59.448] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-16 10:00:59.449] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-16 10:00:59.449] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-16 10:00:59.449] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-16 10:00:59.449] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-16 10:00:59.449] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-16 10:00:59.449] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-16 10:00:59.449] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-16 10:00:59.449] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-16 10:00:59.449] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-16 10:00:59.449] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-16 10:00:59.449] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-16 10:00:59.449] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-16 10:00:59.450] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-16 10:00:59.450] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-16 10:00:59.450] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-16 10:00:59.450] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-16 10:00:59.450] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-16 10:00:59.450] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-16 10:00:59.450] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-16 10:00:59.450] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-16 10:00:59.451] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-16 10:00:59.451] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-16 10:00:59.451] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-16 10:00:59.451] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-16 10:00:59.452] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-16 10:00:59.452] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-16 10:00:59.452] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-16 10:00:59.452] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-16 10:00:59.452] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-16 10:00:59.452] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-16 10:00:59.452] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-16 10:00:59.452] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-16 10:00:59.452] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-16 10:00:59.452] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-16 10:00:59.452] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-16 10:00:59.452] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-16 10:00:59.453] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-16 10:00:59.453] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-16 10:00:59.453] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-16 10:00:59.453] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-16 10:00:59.453] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-16 10:00:59.453] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-16 10:00:59.453] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-16 10:00:59.453] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-16 10:00:59.453] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-16 10:00:59.453] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-16 10:00:59.453] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-16 10:00:59.453] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-16 10:00:59.471] [info] Loaded model HYOID_Scaled from file C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\HYOID_1.2_ScaledStrenght_UpdatedInertia.osim
+[2026-04-16 10:00:59.606] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+[2026-04-16 10:01:58.158] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_force.sto (nr=5272 nc=169)
+[2026-04-16 10:02:09.513] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\so_sviadaksha.mot (nr=5271 nc=205)
+[2026-04-16 10:02:10.084] [warning] Coordinate.setValue:  coordinate gndpitch is locked. Unable to change its value.
+[2026-04-16 10:02:10.084] [warning] Coordinate.setValue:  coordinate gndroll is locked. Unable to change its value.
+[2026-04-16 10:02:10.084] [warning] Coordinate.setValue:  coordinate gndyaw is locked. Unable to change its value.
+[2026-04-16 10:02:10.084] [warning] Coordinate.setValue:  coordinate spine_tx is locked. Unable to change its value.
+[2026-04-16 10:02:10.084] [warning] Coordinate.setValue:  coordinate spine_ty is locked. Unable to change its value.
+[2026-04-16 10:02:10.084] [warning] Coordinate.setValue:  coordinate spine_tz is locked. Unable to change its value.
+[2026-04-16 10:02:33.429] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_force.sto (nr=5272 nc=169)
+[2026-04-16 10:17:50.605] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_force.sto (nr=5272 nc=169)
+[2026-04-17 10:41:03.474] [info] Updating Model file from 30000 to latest format...
+[2026-04-17 10:41:03.572] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-17 10:41:03.572] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-17 10:41:03.572] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-17 10:41:03.573] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-17 10:41:03.573] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-17 10:41:03.573] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-17 10:41:03.573] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-17 10:41:03.573] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-17 10:41:03.574] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-17 10:41:03.574] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-17 10:41:03.575] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-17 10:41:03.575] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-17 10:41:03.576] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-17 10:41:03.576] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-17 10:41:03.576] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-17 10:41:03.576] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-17 10:41:03.576] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-17 10:41:03.576] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-17 10:41:03.577] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-17 10:41:03.577] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-17 10:41:03.577] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-17 10:41:03.577] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-17 10:41:03.577] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-17 10:41:03.577] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-17 10:41:03.577] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-17 10:41:03.577] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-17 10:41:03.577] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-17 10:41:03.577] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-17 10:41:03.579] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-17 10:41:03.579] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-17 10:41:03.579] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-17 10:41:03.579] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-17 10:41:03.579] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-17 10:41:03.579] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-17 10:41:03.579] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-17 10:41:03.579] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-17 10:41:03.580] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-17 10:41:03.580] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-17 10:41:03.580] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-17 10:41:03.580] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-17 10:41:03.580] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-17 10:41:03.580] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-17 10:41:03.580] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-17 10:41:03.580] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-17 10:41:03.580] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-17 10:41:03.580] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-17 10:41:03.581] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-17 10:41:03.581] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-17 10:41:03.582] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-17 10:41:03.582] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-17 10:41:03.582] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-17 10:41:03.582] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-17 10:41:03.582] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-04-17 10:41:03.582] [warning] It was renamed to 'digastricpost-P1'.
+[2026-04-17 10:41:03.582] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-04-17 10:41:03.582] [warning] It was renamed to 'digastricpost-P2'.
+[2026-04-17 10:41:03.600] [info] Loaded model HYOID_Scaled from file C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\HYOID_1.2_ScaledStrenght_UpdatedInertia.osim
+[2026-04-17 10:41:03.731] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+[2026-04-17 10:41:29.959] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\so_sviadaksha.mot (nr=5271 nc=205)
+[2026-04-17 10:41:30.548] [warning] Coordinate.setValue:  coordinate gndpitch is locked. Unable to change its value.
+[2026-04-17 10:41:30.548] [warning] Coordinate.setValue:  coordinate gndroll is locked. Unable to change its value.
+[2026-04-17 10:41:30.548] [warning] Coordinate.setValue:  coordinate gndyaw is locked. Unable to change its value.
+[2026-04-17 10:41:30.548] [warning] Coordinate.setValue:  coordinate spine_tx is locked. Unable to change its value.
+[2026-04-17 10:41:30.548] [warning] Coordinate.setValue:  coordinate spine_ty is locked. Unable to change its value.
+[2026-04-17 10:41:30.548] [warning] Coordinate.setValue:  coordinate spine_tz is locked. Unable to change its value.
+[2026-04-17 10:42:46.813] [error] SimTK Exception thrown at Xml.cpp:108:
+  Error detected by Simbody method Xml::readFromFile(): Failed to load the Xml file '' with error 'Failed to open file (line=0, col=0)'.
+  (Required condition 'loadOK' was not met.)
+
+[2026-04-17 11:08:44.966] [warning] ControlSetController::extendFinalizeFromProperties 'C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_controls.xml' loaded and will replace existing ControlSet 'Control Set'.
+[2026-04-17 11:08:45.256] [info] Creating states from motion storage...
+[2026-04-17 11:08:46.806] [warning] Coordinate.setValue:  coordinate gndpitch is locked. Unable to change its value.
+[2026-04-17 11:08:46.806] [warning] Coordinate.setValue:  coordinate gndroll is locked. Unable to change its value.
+[2026-04-17 11:08:46.806] [warning] Coordinate.setValue:  coordinate gndyaw is locked. Unable to change its value.
+[2026-04-17 11:08:46.806] [warning] Coordinate.setValue:  coordinate spine_tx is locked. Unable to change its value.
+[2026-04-17 11:08:46.806] [warning] Coordinate.setValue:  coordinate spine_ty is locked. Unable to change its value.
+[2026-04-17 11:08:46.806] [warning] Coordinate.setValue:  coordinate spine_tz is locked. Unable to change its value.
+[2026-04-17 11:10:00.473] [warning] ControlSetController::extendFinalizeFromProperties 'C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_controls.xml' loaded and will replace existing ControlSet 'Control Set'.
+[2026-04-17 11:10:00.814] [info] No external loads will be applied (external loads file not specified).
+[2026-04-17 11:10:04.279] [warning] ControlSetController::extendFinalizeFromProperties 'C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_calibrated_StaticOptimization_controls.xml' loaded and will replace existing ControlSet 'Control Set'.
+[2026-04-17 11:10:04.551] [info] Executing the analyses from 0.0 to 87.8333...
+[2026-04-17 11:11:11.727] [info] Printing results of investigation HYOID_Scaled_analyses to C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our
+[2026-04-17 11:16:24.852] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\HYOID_Scaled_analyses_JointReaction_ReactionLoads.sto (nr=5271 nc=10)
+[2026-04-17 14:31:33.503] [info] Updating Model file from 10902 to latest format...
+[2026-04-17 14:31:33.514] [warning] Model name 'neck joints 6DOF' contains whitespace.
+[2026-04-17 14:31:33.514] [warning] It was renamed to 'neckjoints6DOF'.
+[2026-04-17 14:31:33.626] [info] Loaded model neckjoints6DOF from file C:\Users\ASUS\Desktop\Neck6dof_EDIT.osim
+[2026-04-17 14:31:33.628] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-04-17 14:31:33.629] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-04-17 14:31:33.629] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-04-17 14:31:33.630] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-04-17 14:31:33.630] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-04-17 14:31:33.650] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-04-17 14:31:33.723] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_1'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_2'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_3'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_1'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_2'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_3'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_4'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_5'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_6'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_1'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_2'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_1'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_2'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_3'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_4'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_5'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_6'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.724] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.725] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.725] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.725] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_1'.
+[2026-04-17 14:31:33.725] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_2'.
+[2026-04-17 14:31:33.725] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_3'.
+[2026-04-17 14:31:33.725] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.725] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_1'.
+[2026-04-17 14:31:33.725] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.725] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.725] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 14:31:33.725] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathpoint'. The duplicate is being renamed to 'pathpoint_0'.
+[2026-04-17 15:41:17.976] [info] Storage: read data file = C:\Users\ASUS\Documents\OpenSim\4.5\Code\Matlab\OpenSenseExample our\SO_Sivadaksha_1\so_sviadaksha.mot (nr=5271 nc=205)

@@ -1,0 +1,44 @@
+// JointsAndDrivers.any
+// IMU-driven neck flexion/extension — relative angle C7 to Occipital
+
+AnyFolder Joints = {
+};
+
+AnyFolder Drivers = {
+
+  // --------------------------------------------
+  // Rotation between C7 and Skull (sagittal only)
+  // --------------------------------------------
+  AnyKinRotational Skull_C7_Rotation = {
+    AnyRefFrame &Parent =
+      Main.HumanModel.BodyModel.Trunk
+        .SegmentsCervicalSpine.C7Seg;
+    AnyRefFrame &Child =
+      Main.HumanModel.BodyModel.Trunk
+        .SegmentsCervicalSpine.SkullSeg;
+    Type = RotAxesAngles;
+    Axis1 = z;   // sagittal flexion axis
+    Axis2 = y;   // lateral bend (unused)
+    Axis3 = x;   // axial rotation (unused)
+  };
+
+  // --------------------------------------------
+  // Extract ONLY flexion angle (first axis)
+  // --------------------------------------------
+  AnyKinMeasureLinComb NeckFlexion = {
+    AnyKinMeasure &Measures = .Skull_C7_Rotation;
+    OutDim = 1;
+    Coef = {{1, 0, 0}};  // take only Axis1 (z = flexion)
+  };
+
+  // --------------------------------------------
+  // IMU driver — relative flexion from Xsens file
+  // --------------------------------------------
+  AnyKinEqInterPolDriver NeckFlexionDriver = {
+    Type = PiecewiseLinear;
+    AnyKinMeasure &Measure = .NeckFlexion;
+    FileName = "C:\Users\ASUS\Documents\C7 Occipital Markers\Input\Sivdaksha\sivadhaksa_1_AMS_READY_zeroed.txt";
+    Reaction.Type = {Off};
+  };
+
+};

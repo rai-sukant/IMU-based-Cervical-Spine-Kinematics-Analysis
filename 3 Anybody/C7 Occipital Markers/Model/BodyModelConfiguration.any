@@ -1,0 +1,32 @@
+// ============================================
+// BodyModelConfiguration.any - WORKING VERSION
+// NECK + SHOULDERS with visible muscles
+// ============================================
+// These definitions MUST come BEFORE HumanModel is included in your main file
+// ===== DISABLE HANDS (forearms and hands) =====
+#define BM_HAND_LEFT OFF
+#define BM_HAND_RIGHT OFF
+#define BM_ARM_LEFT ON
+#define BM_ARM_RIGHT ON
+// ===== DISABLE ALL LEGS =====
+#define BM_LEG_LEFT OFF
+#define BM_LEG_RIGHT OFF
+// ===== DISABLE TRUNK SEGMENTS (lumbar, sacrum, pelvis) =====
+#define BM_LUMBAR_SPINE_MODEL OFF
+#define BM_PELVIS_ON OFF
+// ===== ENABLE CERVICAL SPINE WITH MUSCLES =====
+#define BM_CERVICAL_SPINE_MODEL _CERVICAL_SPINE_3DOF_
+// ===== NECK MUSCLES - ENABLE WITH DEFAULT MODEL =====
+// Just enable BM_NECK_MUSCLES - don't specify model type
+// The default model type in AMMR will be used automatically
+#define BM_NECK_MUSCLES ON
+// ===== DISABLE ALL OTHER MUSCLES =====
+#define BM_ARM_MUSCLES_BOTH ON
+#define BM_LEG_MUSCLES_BOTH OFF
+#define BM_TRUNK_MUSCLES OFF
+// ===== GLOBAL SETTINGS =====
+#define BM_SCALING ON
+#define BM_MANNEQUIN_DRIVER_MODE _SOFT_
+// ===== NOTE: DO NOT INCLUDE HumanModel.any HERE! =====
+// HumanModel.any is included in your main file (Trial_01_NeckSpine_Study.any)
+// This BodyModelConfiguration.any is only for defining the BM parameters

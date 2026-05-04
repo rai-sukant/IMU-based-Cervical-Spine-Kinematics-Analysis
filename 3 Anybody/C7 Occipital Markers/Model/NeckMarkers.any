@@ -1,0 +1,22 @@
+
+// NeckMarkers.any
+Main.HumanModel.BodyModel.Trunk.SegmentsThorax.ThoraxSeg = {
+  AnyRefNode C7_Marker = {
+    sRel = .T1C7JntNode.sRel + {-0.08, 0, 0};
+    ARel = .T1C7JntNode.ARel;
+    AnyDrawSphere MarkerDraw = {
+      RGB = {0, 0, 1};
+      ScaleXYZ = 0.015*{1,1,1};
+    };
+  };
+};
+
+Main.HumanModel.BodyModel.Trunk.SegmentsCervicalSpine.SkullSeg = {
+  AnyRefNode Occipital_Marker = {
+    sRel = {-0.12, 0.06, 0};  // more -X to push further posterior
+    AnyDrawSphere MarkerDraw = {
+      RGB = {1, 0, 0};
+      ScaleXYZ = 0.015*{1,1,1};
+    };
+  };
+};

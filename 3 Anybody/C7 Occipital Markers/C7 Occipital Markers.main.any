@@ -1,0 +1,45 @@
+#include "libdef.any"
+Main =
+{
+  // ---------------------------------------------
+  // Body model configuration
+  // ---------------------------------------------
+  #include "Model/BodyModelConfiguration.any"
+  #include "Model/Mannequin.any"
+  #include "<ANYBODY_PATH_BODY>\HumanModel.any"
+  // ---------------------------------------------
+  // Model
+  // ---------------------------------------------
+  AnyFolder Model =
+  {
+    AnyFolder &BodyModel = .HumanModel.BodyModel;
+    AnyFolder &DefaultMannequinDrivers = .HumanModel.DefaultMannequinDrivers;
+    #include "Model/Environment.any"
+    #include "Model/NeckMarkers.any"
+    AnyFolder ModelEnvironmentConnection =
+    {
+      #include "Model/JointsAndDrivers.any"
+      #include "Model/Reactions.any"
+    };
+  };
+  // ---------------------------------------------
+  // Study (TIME-BASED – EXACT MATCH TO FILE)
+  // ---------------------------------------------
+ AnyBodyStudy Study =
+{
+  AnyFolder &Model = .Model;
+
+  Gravity = {0, -9.81, 0};
+
+  tStart = 0.0;
+  tEnd   = 50.31;
+
+  nStep  = 53*2;
+
+  Kinematics.SolverType = KinSolOverDeterminate;
+  InitialConditions.SolverType = Kinematics.SolverType;
+}; // ---------------------------------------------
+  // Run sequence
+  // ---------------------------------------------
+  #include "Model/RunAppSequence.any"
+};
