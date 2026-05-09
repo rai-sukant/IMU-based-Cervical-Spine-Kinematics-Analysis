@@ -72,7 +72,10 @@ The system follows a modular pipeline from sensor acquisition to biomechanical s
 This project uses Xsens DOT IMU sensors for capturing cervical spine motion.
 
 ### Sensor Placement
-![Sensor Placement](Assets/Sensor%20placement.jpeg)
+<!-- ![Sensor Placement](Assets/Sensor%20placement.jpeg) -->
+<p align="center">
+  <img src="Assets/Sensor%20placement.jpeg" width="300">
+</p>
 
 - **Sensor 1**: Mounted on the occipital bone (head movement reference)  
 - **Sensor 2**: Mounted on the C7 vertebra (base reference)  
@@ -166,8 +169,12 @@ Run the IK as instructed in the OpenSim Documentation [here](https://opensimconf
 
 ## OpenSim Simulation
 
-[![Watch Simulation](Assets/opensim_thumbnail.png)](Assets/opensim_simulation.mp4)
-
+<!-- [![Watch Simulation](Assets/opensim_thumbnail.png)](Assets/opensim_simulation.mp4) -->
+<p align="center">
+  <a href="Assets/opensim_simulation.mp4">
+    <img src="Assets/opensim_thumbnail.png" width="350">
+  </a>
+</p>
 
 ## AnyBody Modeling System (AMS) Integration
 
