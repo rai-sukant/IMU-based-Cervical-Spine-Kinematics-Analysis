@@ -72,8 +72,7 @@ The system follows a modular pipeline from sensor acquisition to biomechanical s
 This project uses Xsens DOT IMU sensors for capturing cervical spine motion.
 
 ### Sensor Placement
-
-![Sensor Placement](Assets/Sensor placement.png)
+![Sensor Placement](Assets/Sensor%20placement.jpeg)
 
 - **Sensor 1**: Mounted on the occipital bone (head movement reference)  
 - **Sensor 2**: Mounted on the C7 vertebra (base reference)  
